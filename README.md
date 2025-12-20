@@ -31,7 +31,7 @@ Built for speed, reliability, and ease of use, Go Kitchen works perfectly for sm
 
 Download the latest stable version of **Go Kitchen POS App**:
 
-➡️ **[Download Go Kitchen POS (Windows .exe)](https://github.com/<your-github-username>/go-kitchen-pos/releases)**
+➡️ **[Download Go Kitchen POS (Windows .exe)](https://github.com/codeislife07/go_kitchen_desktop_app/raw/refs/heads/main/windows/go_kitchen_0.0.6.exe)**
 
 > Always download from the official GitHub repository to ensure security and updates.
 
