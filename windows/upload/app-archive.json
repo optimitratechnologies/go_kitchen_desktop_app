@@ -1,7 +1,7 @@
 {
     "appName": "Go Kitchen",
     "description": "Simply manage your restaurant orders",
-    "items": [
+    "items": [  
           {
             "version": "0.0.7",
             "shortVersion": 7,
