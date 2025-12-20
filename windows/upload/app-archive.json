@@ -9,7 +9,7 @@
                 {
                     "type": "chore",
                     "message": "Fix bugs"
-                },
+                }
             ],
             "date": "2025-12-20",
             "mandatory": true,
