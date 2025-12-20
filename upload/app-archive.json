@@ -1,0 +1,18 @@
+{
+    "appName": "Go Kitchen",
+    "description": "Simply manage your restaurant orders",
+    "items": [
+        {
+            "version": "0.0.6",
+            "shortVersion": 6,
+            "changes": [
+               
+            ],
+            "date": "2025-12-20",
+            "mandatory": true,
+            "url": "https://www.yourwebsite.com/archive/desktop_updater/0.1.8%2B9-windows",
+            "platform": "windows"
+        }
+        
+    ]
+}
