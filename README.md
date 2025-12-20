@@ -79,8 +79,8 @@ For licensing or enterprise use, please contact the developer.
 
 For support, bug reports, or feature requests:
 
-- GitHub Issues: https://github.com/<your-github-username>/go-kitchen-pos/issues
-- Email: support@gokitchen.app (example)
+- GitHub Issues: <https://github.com/codeislife07/go_kitchen_desktop_app/issues>
+- Email: support@easybillmatic.com
 
 ---
 
