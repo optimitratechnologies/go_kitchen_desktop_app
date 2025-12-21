@@ -31,7 +31,7 @@ Built for speed, reliability, and ease of use, Go Kitchen works perfectly for sm
 
 Download the latest stable version of **Go Kitchen POS App**:
 
-➡️ **[Download Go Kitchen POS (Windows .exe)](https://github.com/codeislife07/go_kitchen_desktop_app/raw/refs/heads/main/windows/go_kitchen_0.0.6.exe)**
+➡️ **[Download Go Kitchen POS (Windows .exe)](https://github.com/codeislife07/go_kitchen_desktop_app/raw/refs/heads/main/windows/GoKitchenInstaller.exe)**
 
 > Always download from the official GitHub repository to ensure security and updates.
 
@@ -39,7 +39,7 @@ Download the latest stable version of **Go Kitchen POS App**:
 
 ## 🛠️ Installation Steps
 
-1. Download the `GoKitchenPOS.exe` file
+1. Download the `GoKitchenInstaller.exe` file
 2. Double-click the installer
 3. Follow the on-screen instructions
 4. Launch the app from Desktop or Start Menu
