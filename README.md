@@ -33,6 +33,8 @@ Download the latest stable version of **Go Kitchen POS App**:
 
 ➡️ **[Download Go Kitchen POS (Windows .exe)](https://github.com/codeislife07/go_kitchen_desktop_app/raw/refs/heads/main/windows/GoKitchenInstaller.exe)**
 
+➡️ **[Download Go Kitchen POS (MacOS .dmg)](https://github.com/codeislife07/go_kitchen_desktop_app/raw/refs/heads/main/macos/GoKitchen.dmg)**
+
 > Always download from the official GitHub repository to ensure security and updates.
 
 ---
