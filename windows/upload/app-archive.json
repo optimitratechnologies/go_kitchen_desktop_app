@@ -13,7 +13,7 @@
             ],
             "date": "2025-12-20",
             "mandatory": true,
-            "url": "https://github.com/codeislife07/go_kitchen_desktop_app/raw/refs/heads/main/windows/upload/Release",
+            "url": "https://github.com/codeislife07/go_kitchen_desktop_app/raw/refs/heads/main/windows/GoKitchenInstaller.exe",
             "platform": "windows"
         }
         
