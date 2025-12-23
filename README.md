@@ -31,9 +31,9 @@ Built for speed, reliability, and ease of use, Go Kitchen works perfectly for sm
 
 Download the latest stable version of **Go Kitchen POS App**:
 
-➡️ **[Download Go Kitchen POS (Windows .exe)](https://github.com/codeislife07/go_kitchen_desktop_app/raw/refs/heads/main/windows/GoKitchenInstaller.exe)**
+➡️ **[Download Go Kitchen POS (Windows .exe)](https://github.com/optimitratechnologies/go_kitchen_desktop_app/raw/refs/heads/main/windows/GoKitchenInstaller.exe)**
 
-➡️ **[Download Go Kitchen POS (MacOS .dmg)](https://github.com/codeislife07/go_kitchen_desktop_app/raw/refs/heads/main/macos/GoKitchen.dmg)**
+➡️ **[Download Go Kitchen POS (MacOS .dmg)](https://github.com/optimitratechnologies/go_kitchen_desktop_app/raw/refs/heads/main/macos/GoKitchen.dmg)**
 
 > Always download from the official GitHub repository to ensure security and updates.
 
@@ -62,7 +62,7 @@ Download the latest stable version of **Go Kitchen POS App**:
 Developed & maintained by:
 
 **Your Name**  
-GitHub: <https://github.com/codeislife07>
+GitHub: <https://github.com/optimitratechnologies>
 
 If you like this project, ⭐ star the repository and share feedback!
 
@@ -81,7 +81,7 @@ For licensing or enterprise use, please contact the developer.
 
 For support, bug reports, or feature requests:
 
-- GitHub Issues: <https://github.com/codeislife07/go_kitchen_desktop_app/issues>
+- GitHub Issues: <https://github.com/optimitratechnologies/go_kitchen_desktop_app/issues>
 - Email: support@easybillmatic.com
 
 ---
