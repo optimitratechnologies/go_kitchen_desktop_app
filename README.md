@@ -1,59 +1,79 @@
-# Go Kitchen – Restaurant POS App
+# Go Kitchen – Restaurant POS Desktop App
 
-**Go Kitchen** is a modern **Restaurant POS (Point of Sale) SaaS application** designed to help restaurants manage sales, orders, inventory, and customers efficiently.  
-Built for speed, reliability, and ease of use, Go Kitchen works perfectly for small to medium-sized restaurants.
+Go Kitchen is a modern **Restaurant POS (Point of Sale) desktop application** for **Windows and macOS**.  
+It helps restaurants manage **billing, orders, inventory, customers, and sales reports** efficiently from one powerful system.
+
+Designed for **small to medium-sized restaurants**, Go Kitchen delivers fast billing, real-time insights, and secure SaaS-ready performance.
 
 ---
 
-## 🚀 Features
+## 🚀 Key Features
 
 - 🧾 Fast billing & invoice generation  
 - 🍽️ Order & table management  
 - 📦 Inventory & stock tracking  
 - 👥 Customer management  
 - 📊 Sales reports & analytics  
-- 🔐 Secure and stable Windows application  
+- 🔐 Secure & stable desktop application  
 - ☁️ SaaS-ready architecture  
 
 ---
 
 ## 💻 System Requirements
 
-- **Operating System:** Windows 10 / Windows 11 (64-bit)
-- **Processor:** Intel / AMD (64-bit)
-- **RAM:** Minimum 4 GB (8 GB recommended)
-- **Disk Space:** 200 MB free space
-- **Internet:** Required for SaaS features
+### Windows
+- OS: Windows 10 / Windows 11 (64-bit)
+- Processor: Intel / AMD (64-bit)
+- RAM: Minimum 4 GB (8 GB recommended)
+- Storage: 200 MB free space
+- Internet: Required for SaaS features
+
+### macOS
+- OS: macOS (Intel & Apple Silicon)
+- RAM: Minimum 4 GB
+- Storage: 200 MB free space
+- Internet: Required for SaaS features
 
 ---
 
-## 📥 Download (Windows EXE)
+## 📥 Download Restaurant POS Desktop App (Latest Version)
 
-Download the latest stable version of **Go Kitchen POS App**:
+Download the latest stable version of **Go Kitchen POS Desktop App**:
 
-➡️ **[Download Go Kitchen POS (Windows .exe)](https://github.com/optimitratechnologies/go_kitchen_desktop_app/raw/refs/heads/main/windows/GoKitchenInstaller.exe)**
+### 🔹 Windows (EXE)
+➡️ Download:  
+https://github.com/optimitratechnologies/go_kitchen_desktop_app/raw/refs/heads/main/windows/GoKitchenInstaller.exe
 
-➡️ **[Download Go Kitchen POS (MacOS .dmg)](https://github.com/optimitratechnologies/go_kitchen_desktop_app/raw/refs/heads/main/macos/GoKitchen.dmg)**
+### 🔹 macOS (DMG)
+➡️ Download:  
+https://github.com/optimitratechnologies/go_kitchen_desktop_app/raw/refs/heads/main/macos/GoKitchen.dmg
 
-> Always download from the official GitHub repository to ensure security and updates.
+> ⚠️ Always download from the official GitHub repository for security and updates.
 
 ---
 
-## 🛠️ Installation Steps
+## 🛠️ Installation Guide
 
-1. Download the `GoKitchenInstaller.exe` file
+### Windows
+1. Download `GoKitchenInstaller.exe`
 2. Double-click the installer
-3. Follow the on-screen instructions
+3. Follow on-screen instructions
 4. Launch the app from Desktop or Start Menu
 5. Login or create your restaurant account
 
+### macOS
+1. Download `GoKitchen.dmg`
+2. Open the DMG file
+3. Drag Go Kitchen to Applications
+4. Open the app and sign in
+
 ---
 
-## 🔄 Updates
+## 🔄 Updates & Releases
 
 - New features and bug fixes are released regularly
 - Auto-update support will be added in future versions
-- Check the **Releases** section for change logs
+- See the **Releases** section for version history
 
 ---
 
@@ -61,28 +81,39 @@ Download the latest stable version of **Go Kitchen POS App**:
 
 Developed & maintained by:
 
-**Your Name**  
-GitHub: <https://github.com/optimitratechnologies>
+**OptimItra Technologies**  
+GitHub: https://github.com/optimitratechnologies
 
-If you like this project, ⭐ star the repository and share feedback!
+⭐ Star this repository to support the project.
 
 ---
 
 ## 📄 License
 
-This software is a **commercial SaaS product**.  
-Unauthorized distribution or modification is not permitted.
+This software is a **commercial SaaS product**.
 
-For licensing or enterprise use, please contact the developer.
+- Unauthorized redistribution or modification is prohibited
+- Licensed usage only
+
+For enterprise licensing or custom deployment, please contact the developer.
 
 ---
 
-## 📞 Support
+## 📞 Support & Feedback
 
 For support, bug reports, or feature requests:
 
-- GitHub Issues: <https://github.com/optimitratechnologies/go_kitchen_desktop_app/issues>
+- GitHub Issues:  
+  https://github.com/optimitratechnologies/go_kitchen_desktop_app/issues
 - Email: support@easybillmatic.com
+
+---
+
+## 🔍 Keywords
+
+Restaurant POS Software, POS Desktop App, Restaurant Billing Software,  
+Windows POS System, macOS POS App, SaaS POS Software,  
+Restaurant Management System, Point of Sale Application
 
 ---
 
