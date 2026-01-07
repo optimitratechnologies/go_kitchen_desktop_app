@@ -3,15 +3,15 @@
     "description": "Simply manage your restaurant orders",
     "items": [  
           {
-            "version": "1.1.21",
-            "shortVersion": 37,
+            "version": "1.1.24",
+            "shortVersion": 39,
             "changes": [
                 {
                     "type": "chore",
                     "message": "Fix bugs"
                 }
             ],
-            "date": "2025-01-06",
+            "date": "2025-01-07",
             "mandatory": true,
             "url": "https://github.com/optimitratechnologies/go_kitchen_desktop_app/raw/refs/heads/main/windows/GoKitchenInstaller.exe",
             "platform": "windows"
