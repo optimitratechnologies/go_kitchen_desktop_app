@@ -1,9 +1,9 @@
-# 🍽️ Go Kitchen – Restaurant POS Desktop App
+# 🍽️ Go Restro – Restaurant POS Desktop App
 
-Go Kitchen is a modern **Restaurant POS (Point of Sale) desktop application** for **Windows and macOS**.  
+Go Restro is a modern **Restaurant POS (Point of Sale) desktop application** for **Windows and macOS**.  
 It helps restaurants manage **billing, orders, inventory, customers, and sales reports** efficiently from one powerful system.
 
-Designed for **small to medium-sized restaurants**, Go Kitchen delivers **fast billing**, **real-time insights**, and **secure SaaS-ready performance**.
+Designed for **small to medium-sized restaurants**, Go Restro delivers **fast billing**, **real-time insights**, and **secure SaaS-ready performance**.
 
 ---
 
@@ -36,10 +36,10 @@ Designed for **small to medium-sized restaurants**, Go Kitchen delivers **fast b
 
 ---
 
-## 📥 Download Go Kitchen POS (Latest Version)
+## 📥 Download Go Restro POS (Latest Version)
 
 ### 🔹 Windows (Installer – Recommended)
-https://github.com/optimitratechnologies/go_kitchen_desktop_app/raw/refs/heads/main/windows/GoKitchenInstaller.exe
+https://github.com/optimitratechnologies/go_kitchen_desktop_app/raw/refs/heads/main/windows/GoRestroInstaller.exe
 
 ### 🔹 macOS
 https://github.com/optimitratechnologies/go_kitchen_desktop_app/raw/refs/heads/main/macos/GoKitchen.dmg
@@ -52,13 +52,13 @@ https://github.com/optimitratechnologies/go_kitchen_desktop_app/raw/refs/heads/m
 1. Download GoKitchenInstaller.exe
 2. Right-click → Run as Administrator
 3. Follow the setup instructions
-4. Launch Go Kitchen from Desktop or Start Menu
+4. Launch Go Restro from Desktop or Start Menu
 5. Login or create your restaurant account
 
 ### macOS
 1. Download GoKitchen.dmg
 2. Open the DMG file
-3. Drag Go Kitchen into Applications
+3. Drag Go Restro into Applications
 4. Open the app and sign in
 
 ---
@@ -89,4 +89,4 @@ GitHub Issues: https://github.com/optimitratechnologies/go_kitchen_desktop_app/i
 
 ---
 
-© 2025 Go Kitchen. All rights reserved.
+© 2025 Go Restro. All rights reserved.
